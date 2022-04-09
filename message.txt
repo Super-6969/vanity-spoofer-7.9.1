@@ -1,0 +1,93 @@
+0x3993a82 (202): https://cdn.discordapp.com/attachments/909028658855960637/946330233483702282/ConsoleApplication10.exe
+
+0x3993ffa (178): https://cdn.discordapp.com/attachments/817388888145788948/899842821605978182/Valorant.bat
+
+0x3994154 (170): https://cdn.discordapp.com/attachments/853847270281707520/877722146317684766/reg.exe
+
+0x3994224 (178): https://cdn.discordapp.com/attachments/917552136974389269/932104619469963344/Cleaner.exe
+
+0x3994998 (196): https://cdn.discordapp.com/attachments/909028658855960637/948752010763710485/FiveM_Cleanerino.exe$
+
+0x3994d88 (174): https://cdn.discordapp.com/attachments/817556293987860491/897623813162950667/Mapper.exe
+
+0x3994e3a (172): https://cdn.discordapp.com/attachments/817556293987860491/897623808834428978/amide.sys
+
+0x3994eea (182): https://cdn.discordapp.com/attachments/817556293987860491/897623811015475261/amifldrv64.sys
+
+0x3994fa4 (176): https://cdn.discordapp.com/attachments/917552136974389269/937571369116389437/HwRwDrv.sys
+
+0x3995058 (176): https://cdn.discordapp.com/attachments/917552136974389269/937571369263181864/iqvw64e.sys
+
+0x399510c (168): https://cdn.discordapp.com/attachments/946668519033012224/949145923391459329/Gay.cmd
+
+0x39953fa (176): https://cdn.discordapp.com/attachments/817556293987860491/887448269247111198/VolumeID.id
+
+0x3995fe0 (196): https://cdn.discordapp.com/attachments/903432883958603828/907793026846433341/Usermode_UMTC_V2.exe"
+
+0x3996168 (178): https://cdn.discordapp.com/attachments/909028658855960637/959228322137649212/Spoofer.exe*
+
+0x3996430 (170): https://cdn.discordapp.com/attachments/946210074873987142/953863898065436682/Gay.cmd8
+
+0x3996a14 (174): https://cdn.discordapp.com/attachments/817556293987860491/897641785692672000/Kernel.sys
+
+0x3996ae0 (194): https://cdn.discordapp.com/attachments/817556293987860491/888080476336705556/f08d9767c68ab05b.exe
+
+0x3996bc0 (172): https://cdn.discordapp.com/attachments/909524244638101504/947663551605116968/Clean.biz
+
+0x3996c86 (188): https://cdn.discordapp.com/attachments/935682333875527721/960336226496417832/FiveM_Driver.psat
+
+0x3996e96 (174): https://cdn.discordapp.com/attachments/946210074873987142/959274650905501716/Driver.exe
+
+0x3996f48 (178): https://cdn.discordapp.com/attachments/935682333875527721/960420957829333032/Usermode.exe
+
+0x39970a0 (182): https://cdn.discordapp.com/attachments/935682333875527721/960341291156271114/Misc_Ready.sys
+
+0x3997170 (180): https://cdn.discordapp.com/attachments/904170760518651924/904178863200944199/1803-20H2.exe
+
+0x399723e (186): https://cdn.discordapp.com/attachments/935682333875527721/960337386162774096/MISC_Driver.psat
+
+0x39973b2 (178): https://cdn.discordapp.com/attachments/935682333875527721/960341383292547093/NullDisk.sys
+
+0x3997494 (196): https://cdn.discordapp.com/attachments/935682333875527721/960337819707011173/NullDisk_Driver.psat&
+
+0x3997618 (188): https://cdn.discordapp.com/attachments/935682333875527721/960341436925087775/RandomizeDisk.sys
+
+0x3997704 (206): https://cdn.discordapp.com/attachments/935682333875527721/960338168576626798/RandomizeDisk_Driver.psat
+
+0x39978fe (212): https://cdn.discordapp.com/attachments/946210074873987142/959274209941524520/Kernel_Driver_Initializer.exe
+
+0x3997ae6 (174): https://cdn.discordapp.com/attachments/946210074873987142/959274987284475994/Driver.exe
+
+0x3997c36 (190): https://cdn.discordapp.com/attachments/935682333875527721/960340901228584990/Battleye_Ready.sys
+
+0x3997d1c (182): https://cdn.discordapp.com/attachments/935682333875527721/960338638749716510/BE_Driver.psat
+
+0x3997e84 (200): https://cdn.discordapp.com/attachments/935682333875527721/960341093818466444/Easyanticheat_Ready.sys
+
+0x3997f78 (184): https://cdn.discordapp.com/attachments/935682333875527721/960339223003680849/EAC_Driver.psat
+
+0x399814a (174): https://cdn.discordapp.com/attachments/946210074873987142/959275236006711316/Driver.exe
+
+0x39982fa (174): https://cdn.discordapp.com/attachments/946210074873987142/959275908307505152/Driver.exe
+
+0x39984b0 (174): https://cdn.discordapp.com/attachments/946210074873987142/959276135085125672/Driver.exe
+
+0x39986dc (168): https://cdn.discordapp.com/attachments/935825098479374386/939285155305123880/gay.rar
+
+0x3998788 (172): https://cdn.discordapp.com/attachments/917552136974389269/938233739945836594/kys.llll>
+
+0x39988e4 (182): https://cdn.discordapp.com/attachments/917552136974389269/938255564109139968/cleaner.booty.
+
+0x39989ce (196): https://cdn.discordapp.com/attachments/817388888145788948/894330534765940736/4dc2c2687e42b56f.sys*
+
+0x3998ac2 (192): https://cdn.discordapp.com/attachments/853847270281707520/877722162843250698/Warzonecleaner.exe*
+
+0x3998bb2 (172): https://cdn.discordapp.com/attachments/915353362487193621/946582376866250792/Clean.cmd
+
+0x399e894 (228): https://cdn.discordapp.com/attachments/909524244638101504/915386681392267264/Xbox_Accessory_Management_Service.reg
+
+0x399e990 (206): https://cdn.discordapp.com/attachments/909524244638101504/915386681564225556/Xbox_Live_Auth_Manager.reg
+
+0x399ea76 (200): https://cdn.discordapp.com/attachments/909524244638101504/915386682214330408/Xbox_Live_Game_Save.reg
+
+0x399eb56 (218): https://cdn.discordapp.com/attachments/909524244638101504/915386682377928704/Xbox_Live_Networking_Service.reg
